@@ -1,1 +1,3 @@
-# event-scheduler-platform-121220
+# Project Repository
+
+This is the initial README file for the project.
